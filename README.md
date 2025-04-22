@@ -54,7 +54,7 @@ Lakshana_S, 09:15:32
 
 📸 Sample Output
 
-![image](https://github.com/user-attachments/assets/f69a82b7-3c36-42df-934b-2ecc838c1b3e)
+![image](https://github.com/user-attachments/assets/eca2e587-751b-44ed-970a-5d5a48b0df7c)
 
 ---
 
